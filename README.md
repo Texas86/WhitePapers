@@ -1,3 +1,3 @@
 # WhitePapers by Market Cap
-Internal use
-Half assed, out of order, and idgaf
+For internal use,
+Half assed, out of order, and I really dgaf
