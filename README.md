@@ -1,2 +1,3 @@
 # WhitePapers by Market Cap
-Out of order and idgaf
+Internal use
+Half assed, out of order, and idgaf
